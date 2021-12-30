@@ -1,13 +1,5 @@
 # Tv Shows Searcher - Js - APIs
 
-
-## To-Dos:
-
-1. Read and understand the render function and the value of the `variables` variable that it receives.
-2. Change the content of the render function to make it render the variables on the card.
-
-------------
-
 ## To-Dos:
 
 - Use the DOM to display.
